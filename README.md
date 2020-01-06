@@ -1,10 +1,13 @@
 # BaJump
 BASKETBALL GAME
 
-# License 
+## License 
 Codes in this game can be used.
 
-# Gameplay
+## About this game
+  This game was made from Unity engine. Game is currently in play testing.
+  
+## Gameplay
 
 - Information bar
 
