@@ -1,6 +1,10 @@
 # BaJump
 BASKETBALL GAME
 
+# License 
+Codes in this game can be used.
+
+# Gameplay
 
 Red bar repersents the character's hp bar, blue bar repersents the character's remaining shield. Yellow bar fills when player continually powers his "throw action".
 ![Character_infobar](https://github.com/842895893/BaJump/blob/master/screenshot/Screen%20Shot%202020-01-06%20at%204.31.32%20PM.JPG)
