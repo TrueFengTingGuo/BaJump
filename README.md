@@ -2,7 +2,7 @@
 BASKETBALL GAME
 
 ## License 
-Codes in this game can be used.
+Codes in this game can be used freely
 
 ## About this game
   This game was made from Unity engine. Game is currently in play testing.
