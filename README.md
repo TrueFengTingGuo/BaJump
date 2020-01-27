@@ -1,5 +1,5 @@
 # BaJump
-BASKETBALL GAME
+self devoloped BASKETBALL GAME
 
 ## License 
 Codes in this game can be used freely
